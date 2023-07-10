@@ -55,8 +55,8 @@ main.py
 
 ## Output
 
-![./images/result1.png](./images/result1.png)
-![./images/result2.png](./images/result2.png)
+![./result/result1.png](./result/result1.png)
+![./result/result2.png](./result/result2.png)
 
 ## Appendix
 
